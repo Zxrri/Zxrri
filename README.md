@@ -11,10 +11,9 @@
 
 <br>
 
-<div align="center">
-
-  <a href="https://linkedin.com/in/zarri14" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+<div align="center">   
+   ![Visitors](https://komarev.com/ghpvc/?username=Zxrri&label=Profile+Views&color=blue&style=flat)
+   
   </div>
 <hr>
     
@@ -38,6 +37,9 @@
     <img alt="github-snake" src="https://raw.githubusercontent.com/Zxrri/Zxrri/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
+
+
+
 
 <hr>
 
