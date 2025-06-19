@@ -3,7 +3,7 @@
 <img src="https://github.com/Zxrri/Zxrri/blob/main/me.png" alt="AI-GEN-LOFI" width="100%" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4250&pause=1250&color=F7744E&background=FFFFFF00&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+I'm+Zxrri;Welcome+to+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&duration=4250&pause=1250&color=F7744E&background=FFFFFF00&center=true&vCenter=true&width=500&height=70&lines=Hi+There!+I'm+Zach;Welcome+to+my+profile!" alt="Typing SVG" />
 </h1>
 
 ### 🎧 Just a casual nerd in IT.  
