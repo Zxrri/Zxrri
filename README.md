@@ -49,7 +49,7 @@ Auto-mutes your system & mic when you're idle.
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Zxrri&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zxrri&theme=slateorange&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zxrri/Zxrri/output/github-contribution-grid-snake-dark.svg" />
