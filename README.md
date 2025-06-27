@@ -62,6 +62,3 @@ Auto-mutes your system & mic when you're idle.
 ---
 
 ## 💬 Let's Connect
-
-📫 Message me on GitHub  
-🔨 Open to collaboration on WinForms tools, bots, or workflow automation
