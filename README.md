@@ -20,11 +20,7 @@
 ---
 
 ## 🛠 Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,vscode,visualstudio,windows,py,powershell,git,github" />
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,docker,postman,md" />
-</p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=cs,dotnet,vscode,visualstudio,windows,py,powershell,git,github" /> <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,docker,postman,md" /><br/> <img src="https://img.shields.io/badge/n8n-FE4E00?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n logo"/> <img src="https://img.shields.io/badge/AI%20Agents-%F0%9F%A4%96-black?style=for-the-badge" alt="AI Agents" /> </p>
 
 ---
 
