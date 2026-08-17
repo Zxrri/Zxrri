@@ -41,12 +41,6 @@ Auto-mutes your system & mic when you're idle.
 ![AI Agents](https://img.shields.io/badge/AI_Agents-%F0%9F%A4%96-4B0082?style=flat-square)
 ---
 
-## 🐍 GitHub Contributions
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zxrri&theme=slateorange&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zxrri/Zxrri/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Zxrri/Zxrri/output/github-contribution-grid-snake.svg" />
@@ -56,5 +50,3 @@ Auto-mutes your system & mic when you're idle.
 </div>
 
 ---
-
-## 💬 Let's Connect
